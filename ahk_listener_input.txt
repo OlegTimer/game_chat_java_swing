@@ -1,0 +1,30 @@
+run as server (1 - yes, 0 - as client):
+1
+show message, sec (for server):
+4
+number of clients: 1 or 2 (for server):
+2
+nickname (short is better):
+n
+IP to try to connect for a client:
+127.0.0.1
+port (for second client will be +1):
+26000
+font size:
+42
+x from top up, pix:
+0
+y from top up, pix:
+0
+wide, pix:
+640
+height , pix:
+70
+command1 (short, in Latin alphabet):
+ACT1
+command2:
+ACT2
+command3:
+ACT3
+command4:
+ACT4
